@@ -30,7 +30,7 @@ epic_tragedy[:capulet][:heroine][:status] = "dead"
   epic_tragedy
 end
 
-def add_characters
+def additional_characters
    epic_tragedy = {
       :montague => {
          :patriarch => {name: "Lord Montague", age: "53"},
